@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/qihuan196/ZhiDianFuture/master/DownNewIPA.ipa</string>
+					<string>https://github.com/qihuan196/ZhiDianFuture.git/DownNewIPA.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
